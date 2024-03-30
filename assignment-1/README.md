@@ -1,8 +1,6 @@
-# React + Vite
+All product listing page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/utkarshgupta04092003/23MCA1090/assets/63789702/7f0fe622-c0fe-490c-b057-5e8fea6ba530)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+MObile view - 
+![image](https://github.com/utkarshgupta04092003/23MCA1090/assets/63789702/e8a52230-1656-4212-86d1-01a3db522b83)
